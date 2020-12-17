@@ -24,26 +24,42 @@ namespace ExceptionsBestPractices
 
             while (true)
             {
-            
-                 string s = Console.ReadLine();
-                 try
-                 {
-                     Int32.Parse(s);
-                     Console.WriteLine("You have entered valid int.32 number{0}", s);
-                 }
-                 catch (FormatException)
-                 {
-                     Console.WriteLine("Invalid integer Number!");
-                     continue;
-                 }
-                 catch (OverflowException) 
-                 {
-                     Console.WriteLine("The numebr is too big to fit to int.32! ");
-                     continue;
-                 }
 
-                 break;
+                string s = Console.ReadLine();
+                try
+                {
+                    Int32.Parse(s);
+                    Console.WriteLine("You have entered valid int.32 number{0}", s);
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("Invalid integer Number!");
+                    continue;
+                }
+                catch (OverflowException)
+                {
+                    Console.WriteLine("The numebr is too big to fit to int.32! ");
+                    continue;
+                }
+
+                break;
                 // Exceptions are used for data Validation!
+                // Error Handling Techniques
+                // throw an Exception
+                // -> returna neutrtal value , 
+                // return an error code !
+
+                // OOP languages use exceptions 
+                // exceptions are anouncement for about error condition, or unusual event., 
+                //exception can be caught and the application can continue wirking !
+                ///
+                // Assertions are fatal errors, asertions always indicate bugs in the code .
+                // Assertions can not be caufght and processed, application can not continue incase of failed assertions.
+                // Assertions only for private methods and debug mode !
+                //public methods --validate the data
+                // private methods assume the data is safe!
+                // defensive programing, --> many checks , validations, too much defence programming is not good!
+
 
             }
         }
