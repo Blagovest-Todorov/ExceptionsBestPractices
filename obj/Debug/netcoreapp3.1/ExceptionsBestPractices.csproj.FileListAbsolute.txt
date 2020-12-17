@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\QualityProgramingCode\ExceptionsBestPractices\bin\Debug\netcoreapp3.1\ExceptionsBestPractices.exe
+C:\Users\Bla\source\repos\QualityProgramingCode\ExceptionsBestPractices\bin\Debug\netcoreapp3.1\ExceptionsBestPractices.deps.json
+C:\Users\Bla\source\repos\QualityProgramingCode\ExceptionsBestPractices\bin\Debug\netcoreapp3.1\ExceptionsBestPractices.runtimeconfig.json
+C:\Users\Bla\source\repos\QualityProgramingCode\ExceptionsBestPractices\bin\Debug\netcoreapp3.1\ExceptionsBestPractices.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\QualityProgramingCode\ExceptionsBestPractices\bin\Debug\netcoreapp3.1\ExceptionsBestPractices.dll
+C:\Users\Bla\source\repos\QualityProgramingCode\ExceptionsBestPractices\bin\Debug\netcoreapp3.1\ExceptionsBestPractices.pdb
+C:\Users\Bla\source\repos\QualityProgramingCode\ExceptionsBestPractices\obj\Debug\netcoreapp3.1\ExceptionsBestPractices.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\QualityProgramingCode\ExceptionsBestPractices\obj\Debug\netcoreapp3.1\ExceptionsBestPractices.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\QualityProgramingCode\ExceptionsBestPractices\obj\Debug\netcoreapp3.1\ExceptionsBestPractices.AssemblyInfo.cs
+C:\Users\Bla\source\repos\QualityProgramingCode\ExceptionsBestPractices\obj\Debug\netcoreapp3.1\ExceptionsBestPractices.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\QualityProgramingCode\ExceptionsBestPractices\obj\Debug\netcoreapp3.1\ExceptionsBestPractices.dll
+C:\Users\Bla\source\repos\QualityProgramingCode\ExceptionsBestPractices\obj\Debug\netcoreapp3.1\ExceptionsBestPractices.pdb
+C:\Users\Bla\source\repos\QualityProgramingCode\ExceptionsBestPractices\obj\Debug\netcoreapp3.1\ExceptionsBestPractices.genruntimeconfig.cache
