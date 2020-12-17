@@ -1,0 +1,2 @@
+# ExceptionsBestPractices
+exceptions
